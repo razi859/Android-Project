@@ -1,0 +1,17 @@
+<resources>
+
+    <string name="app_name">BlackMail</string>
+    <string name="select_dob">Select DOB:</string>
+    <string name="reg_aggrement">Agree with our Terms and Conditions</string>
+    <string name="bt_register">Register</string>
+    <string name="bt_login">Login</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="enter_phone">Enter Phone Number</string>
+    <string name="user_Details">User Details:</string>
+    <string name="forgot_password">Forgot Password ?</string>
+    <string name="recover_password">Recover Password ?</string>
+
+</resources>
